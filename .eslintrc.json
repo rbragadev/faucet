@@ -1,0 +1,4 @@
+{
+  "parser": "@babel/eslint-parser"
+  // Other ESLint configurations...
+}
